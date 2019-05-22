@@ -42,7 +42,7 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://35.180.178.112:8081/#browse/browse/components/all/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
