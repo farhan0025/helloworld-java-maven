@@ -37,8 +37,8 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 =====================SETTING.XML=================================
    <server>
 		<id>farhan</id>
-		<username>farhan-user</username>
-		<password>farhan-user123</password>
+		<username>admin</username>
+		<password>admin123</password>
 </server>
 
 =======================Setting.xml with Artifactory Setup======================
