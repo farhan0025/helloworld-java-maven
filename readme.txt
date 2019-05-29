@@ -21,24 +21,24 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 ===============ARTIFACTORY=================
 <distributionManagement>
 	<repository>
-		<id>rajesh</id>
+		<id>farhan</id>
 		<name>Internal Releases</name>
-		<url>http://35.180.169.133:8081/artifactory/list/rajesh-release/</url>
+		<url>http://35.180.169.133:8081/artifactory/list/-release/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>rajesh</id>
+		<id>farhan</id>
 		<name>Internal Releases</name>
-		<url>http://35.180.169.133:8081/artifactory/list/rajesh-snapshot/</url>
+		<url>http://35.180.169.133:8081/artifactory/list/-snapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
 
 =====================SETTING.XML=================================
    <server>
-		<id>rajesh</id>
-		<username>rajesh-user</username>
-		<password>rajesh-user123</password>
+		<id>farhan</id>
+		<username>farhan-user</username>
+		<password>farhan-user123</password>
 </server>
 
 =======================Setting.xml with Artifactory Setup======================
